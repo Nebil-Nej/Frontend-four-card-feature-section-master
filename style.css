@@ -57,7 +57,7 @@ h2 {
 
 h1,
 h2 {
-    font-size: 1.25rem;
+    font-size: 2rem;
 }
 
 p {
@@ -89,7 +89,7 @@ p {
     width: clamp(17.5rem, 22.5vw, 24rem);
     height: 12.5rem;
     background-color: var(--Very-Light-Gray);
-    box-shadow: -10px 4px 8px 0 var(--Grayish-Blue), 0 6px 20px 0 var(--Grayish-Blue);
+    box-shadow: -5px 2px 4px 0 var(--Grayish-Blue), 0 3px 10px 0 var(--Grayish-Blue);
 
 }
 
@@ -109,7 +109,7 @@ p {
 
 .team-build-section {
     border-top: 3px solid var(--team-Red);
-    margin-bottom: 10px;
+    margin-bottom: 20px;
 }
 
 .karma-section {
@@ -148,11 +148,11 @@ p {
     }
 
     .supervisor-section {
-        margin-bottom: 10px;
+        margin-bottom: 20px;
     }
 
     .team-build-section {
-        margin-right: 10px;
+        margin-right: 20px;
     }
 }
 
